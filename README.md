@@ -48,6 +48,20 @@ $ cd catkin_ws/src/mypkg/scripts/
 $ rostopic echo /fivetimes
 ```
 --- 
+# 動画
+[YouTube]()
+
+--- 
+# 参考
+https://ryuichiueda.github.io/robosys2020/lesson10_ros.html#/21
+
+https://www.youtube.com/watch?v=PL85Pw_zQH0
+
+https://github.com/GakuKuwano/robosys2020_ros
+
+--- 
+# ライセンス
+
 
 
 
